@@ -20,4 +20,4 @@ To return to the terminal: `deactivate`.
 
 ### Requirements
 
-Python 3.7.4 or greater
+Python 3 not sure which version
